@@ -4,13 +4,21 @@
     <title>ABS 2021 Registration</title> 
     <style type="text/css"> html{ margin: 0; height: 100%; overflow: hidden; } iframe{ position: absolute; left:0; right:0; bottom:0; top:0; border:0; } </style>
       <script>
-          let form = document.getElementById("typeform-full");
-          let endpoint = "https://form.typeform.com/to/q420p65D?typeform-medium=embed-snippet";
-          let url_string = window.location.href;
-          let url = new URL(url_string);
-          let email = url.searchParams.get("email");
-          let subscribed = url.searchParams.get("subscribed");
-          let formUrl = endpoint+"?email="+email+"&subscribed="+subscribed;
+          const form = document.getElementById("typeform-full");
+          const endpoint = "https://form.typeform.com/to/q420p65D?typeform-medium=embed-snippet";
+          const url_string = window.location.href;
+          const url = new URL(url_string);
+        if (url.has('email') {
+          const email = url.searchParams.get("email");
+        } else {
+          const email = ""
+          }
+        if (url.has('subscribed') {
+          const subscribed = url.searchParams.get("subscribed");
+        } else {
+          const subscribed = ""
+          }
+          const formUrl = endpoint+"?email="+email+"&subscribed="+subscribed;
           form.src = formUrl;
       </script>
   </head> 
