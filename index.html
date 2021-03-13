@@ -36,12 +36,12 @@
       var queryString = window.location.search;
       var urlParams = new URLSearchParams(queryString);
       if (urlParams.has("email")) {
-        var email = queryString.urlParams.get("email");
+        var email = urlParams.get("email");
       } else {
         var email = "";
       }
       if (urlParams.has("subscribed")) {
-        var subscribed = queryString.urlParams.get("subscribed");
+        var subscribed = urlParams.get("subscribed");
       } else {
         var subscribed = "";
       }
