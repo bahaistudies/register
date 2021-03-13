@@ -1,0 +1,68 @@
+--- North America ---
+[UTC-8] Pacific Standard Time
+[UTC-7] Mountain Standard Time
+[UTC-6] Central Standard Time
+[UTC-5] Eastern Standard Time
+--- Rest of World --
+[UTC-12] Niue Time
+[UTC-12] Samoa Standard Time
+[UTC-11] Hawaii-Aleutian Standard Time
+[UTC-11] Cook Island Time
+[UTC-9:30] Marquesas Islands Time
+[UTC-9] Alaska Standard Time
+[UTC-9] Gambier Island Time
+[UTC-4:30] Venezuelan Standard Time
+[UTC-4] Atlantic Standard Time
+[UTC-3:30] Newfoundland Standard Time
+[UTC-3] Amazon Standard Time
+[UTC-3] Central Greenland Time
+[UTC-2] Fernando de Noronha Time
+[UTC-2] South Sandwich Islands Time
+[UTC-1] Azores Standard Time
+[UTC-1] Cape Verde Time
+[UTC-1] Eastern Greenland Time
+[UTC] Western European Time
+[UTC] Greenwich Mean Time
+[UTC+1] Central European Time
+[UTC+1] West African Time
+[UTC+2] Eastern European Time
+[UTC+2] Central African Time
+[UTC+3] Moscow Standard Time
+[UTC+3] Eastern African Time
+[UTC+3:30] Iran Standard Time
+[UTC+4] Gulf Standard Time
+[UTC+4] Samara Standard Time
+[UTC+4:30] Afghanistan Time
+[UTC+5] Yekaterinburg Standard Time
+[UTC+5] Yekaterinburg Standard Time
+[UTC+5:30] Indian Standard Time
+[UTC+5:30] Sri Lanka Time
+[UTC+5:45] Nepal Time
+[UTC+6] Bangladesh Time
+[UTC+6] Bhutan Time
+[UTC+6] Novosibirsk Standard Time
+[UTC+6:30] Cocos Islands Time
+[UTC+6:30] Myanmar Time
+[UTC+7] Indochina Time
+[UTC+7] Krasnoyarsk Standard Time
+[UTC+8] Chinese Standard Time
+[UTC+8] Australian Western Standard Time
+[UTC+8] Irkutsk Standard Time
+[UTC+8:45] Southeastern Western Australian Standard Time
+[UTC+9] Japan Standard Time
+[UTC+9] Korea Standard Time
+[UTC+9] Chita Standard Time
+[UTC+9:30] Australian Central Standard Time
+[UTC+10] Australian Eastern Standard Time
+[UTC+10] Vladivostok Standard Time
+[UTC+10:30] Lord Howe Standard Time
+[UTC+11] Solomon Island Time
+[UTC+11] Magadan Standard Time
+[UTC+11:30] Norfolk Island Time
+[UTC+12] New Zealand Time
+[UTC+12] Fiji Time
+[UTC+12] Kamchatka Standard Time
+[UTC+12:45] Chatham Islands Time
+[UTC+13] Tonga Time
+[UTC+13] Phoenix Islands Time
+[UTC+14] Line Island Time
